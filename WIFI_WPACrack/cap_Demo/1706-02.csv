@@ -1,0 +1,9 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+F4:6A:92:25:56:56, 2016-02-21 23:08:40, 2016-02-21 23:15:04,  6,  54, WPA2 WPA, CCMP,PSK, -51,     2921,      673,   0.  0.  0.  0,   7, ANDREWH, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+F0:F6:1C:82:B2:51, 2016-02-21 23:08:41, 2016-02-21 23:15:01, -70,     1307, F4:6A:92:25:56:56,
+D0:23:DB:D6:0A:DA, 2016-02-21 23:10:26, 2016-02-21 23:15:03,  -1,       25, F4:6A:92:25:56:56,
+00:21:6B:B1:2E:F6, 2016-02-21 23:10:07, 2016-02-21 23:14:48,  -1,      475, F4:6A:92:25:56:56,
+
